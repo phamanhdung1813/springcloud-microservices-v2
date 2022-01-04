@@ -1,5 +1,5 @@
 ## Spring Cloud Microservice
-* Spring API Gateway
+* Spring Zuul API Gateway
 * Feign HTTP Java Client
 * Spring Cloud Eureka Naming Server
 * Netflix 
